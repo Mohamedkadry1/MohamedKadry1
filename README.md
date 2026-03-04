@@ -1,101 +1,148 @@
-<h1 align="center">Hi 👋, I'm Mohamed Qadri</h1>
-<h3 align="center">Mobile Application Developer specializing in Flutter & Dart</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedkadry1&label=Profile%20views&color=0e75b6&style=flat-square" alt="mohamedkadry1" />
-</p>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Qadri&fontSize=60&fontColor=00f5c4&fontAlignY=38&desc=Flutter%20%26%20Dart%20Mobile%20Developer&descAlignY=58&descColor=7b61ff&animation=fadeIn" width="100%"/>
 
----
-
-### 👨‍💻 About Me
-
-- 🚀 **Flutter Developer** with 2+ years of experience building scalable, high-performance mobile applications.
-- 🏗️ Deeply committed to **Clean Architecture**, **State Management** (Bloc/Provider), and writing testable code.
-- ⚙️ Experienced in **CI/CD automation** using GitHub Actions and Fastlane for seamless deployment.
-- 🌍 Specialized in **Responsive UI** and **RTL (Right-to-Left)** layout optimization for localized user experiences.
-- 📱 Current Focus: Enhancing mobile performance and exploring advanced integration with native platforms.
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart" />
-      <br />Dart
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter" />
-      <br />Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      <br />C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-      <br />C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
-      <br />Firebase
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="MSSQL" />
-      <br />MSSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-      <br />HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-      <br />CSS3
-    </td>
-  </tr>
-</table>
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=800&color=00F5C4&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Flutter+%26+Dart+Developer;🏗+Clean+Architecture+%7C+Bloc+%7C+Provider;⚙️+CI%2FCD+%7C+GitHub+Actions+%7C+Fastlane;🌍+Responsive+UI+%7C+RTL+Layouts)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
+## 👨‍💻 About Me
+
+```dart
+class MohamedQadri extends FlutterDeveloper {
+
+  final String name         = "Mohamed Qadri";
+  final String role         = "Mobile Application Developer";
+  final String location     = "Egypt 🇪🇬";
+  final int    experience   = 2; // years+
+
+  final List<String> strengths = [
+    "Clean Architecture",
+    "State Management (Bloc / Provider)",
+    "CI/CD — GitHub Actions & Fastlane",
+    "Responsive UI & RTL Optimization",
+    "Native Platform Integration",
+  ];
+
+  String get currentFocus =>
+    "Enhancing mobile performance & exploring advanced native integration";
+
+  String get motto =>
+    "Building the future of mobile, one widget at a time. 🧩";
+}
+```
+
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mohamedkadry1&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohamedkadry1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### ⚡ Primary
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🌐 Web Basics
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ---
 
+## 🏗️ Architecture & Patterns
+
+<div align="center">
+
+| Pattern | Usage |
+|---|---|
+| 🧱 **Clean Architecture** | Domain / Data / Presentation layers |
+| 🔄 **Bloc / Cubit** | Primary state management |
+| 📦 **Provider** | Lightweight state for small scopes |
+| 🧪 **TDD** | Testable, maintainable codebase |
+| 🔁 **Repository Pattern** | Abstracted data sources |
+| 🚀 **CI/CD** | Automated build, test & deploy pipelines |
+
+</div>
+
 ---
 
-### 🤝 Connect with me:
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-qadri-salah-a91a24215/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohamed Qadri Salah" />
-  </a>
-  <a href="https://www.leetcode.com/mohamedqadri" target="blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="mohamedqadri" />
-  </a>
-  <a href="https://www.hackerrank.com/mohamed qadri salah" target="blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="mohamed qadri salah" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>"Building the future of mobile, one widget at a time."</i></p>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mohamedkadry1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5c4&icon_color=7b61ff&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mohamedkadry1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5c4&text_color=c9d1d9" height="165" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=mohamedkadry1&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5c4&fire=7b61ff&currStreakLabel=00f5c4" alt="GitHub Streak" width="500"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedkadry1&bg_color=0d1117&color=00f5c4&line=7b61ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedkadry1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-qadri-salah-a91a24215/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/mohamedqadri)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mohamedqadrisalah)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=mohamedkadry1&label=Profile+Views&color=00f5c4&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=22&fontColor=00f5c4&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
