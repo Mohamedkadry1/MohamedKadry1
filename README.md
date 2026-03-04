@@ -24,29 +24,43 @@
 <!-- ABOUT ME -->
 ### 👨‍💻 About Me
 
-<img width="260" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
-```dart
-class MohamedQadri extends FlutterDeveloper {
+### 🙋‍♂️ Hi, I'm Mohamed Qadri!
 
-  final String name     = "Mohamed Qadri";
-  final String role     = "Mobile App Developer";
-  final int    exp      = 2; // years
+> 🚀 **Mobile Application Developer** specializing in **Flutter & Dart**
 
-  final List<String> focus = [
-    "Clean Architecture",
-    "Bloc / Provider",
-    "CI/CD Automation",
-    "RTL & Responsive UI",
-    "Native Integrations",
-  ];
+<br/>
 
-  String get motto =>
-    "Building the future, one widget at a time 📱";
-}
-```
+📌 &nbsp;**2+ years** building scalable mobile apps
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that users actually love
 
-<br clear="right"/>
+🏗️ &nbsp;Deeply committed to **Clean Architecture**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and writing testable, maintainable code
+
+⚙️ &nbsp;Experienced in **CI/CD** with GitHub Actions
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Fastlane for seamless deployment
+
+🌍 &nbsp;Specialized in **RTL layouts** and responsive UI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for localized experiences
+
+📱 &nbsp;Currently exploring **advanced native platform**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;integrations to push mobile limits
+
+<br/>
+
+> 💬 *"Building the future of mobile, one widget at a time."*
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -74,7 +88,6 @@ class MohamedQadri extends FlutterDeveloper {
 
 **💻 Other Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -96,9 +109,9 @@ class MohamedQadri extends FlutterDeveloper {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedkadry1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=mohamedkadry1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkadry1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohamedkadry1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -107,54 +120,26 @@ class MohamedQadri extends FlutterDeveloper {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedkadry1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedkadry1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
 </div>
 
 ---
 
 <!-- SNAKE -->
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
 <div align="center">
+
+  <!-- After running the snake workflow, this will animate your contributions -->
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mohamedkadry1/mohamedkadry1/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedkadry1/mohamedkadry1/output/github-snake.svg"/>
     <img src="https://raw.githubusercontent.com/mohamedkadry1/mohamedkadry1/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
   </picture>
+
 </div>
 
-> ⚙️ **Snake setup:** Add the workflow below to `.github/workflows/snake.yml` in your profile repo to generate the snake automatically every day.
-
-<details>
-<summary>📋 Click to copy snake workflow</summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mohamedkadry1
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
+> ⚙️ **Snake not showing?** Go to your repo → **Actions** tab → **Generate Snake** → click **Run workflow** to generate it once manually. It will auto-update every day after that.
 
 ---
 
@@ -172,7 +157,17 @@ jobs:
 ---
 
 <div align="center">
+
+<br/>
+
   <i>"Building the future of mobile, one widget at a time." 📱✨</i>
+
+<br/><br/>
+
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="mobile dev gif"/>
+
+<br/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" width="100%"/>
