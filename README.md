@@ -119,9 +119,7 @@
   <img src="https://streak-stats.demolab.com?user=mohamedkadry1&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedkadry1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
-</div>
+
 
 ---
 
