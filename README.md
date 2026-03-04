@@ -139,7 +139,6 @@
 
 </div>
 
-> ⚙️ **Snake not showing?** Go to your repo → **Actions** tab → **Generate Snake** → click **Run workflow** to generate it once manually. It will auto-update every day after that.
 
 ---
 
