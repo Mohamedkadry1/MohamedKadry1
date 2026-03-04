@@ -159,11 +159,7 @@
 
   <i>"Building the future of mobile, one widget at a time." 📱✨</i>
 
-<br/><br/>
 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="mobile dev gif"/>
-
-<br/>
 
 </div>
 
