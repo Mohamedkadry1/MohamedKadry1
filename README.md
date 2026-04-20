@@ -51,7 +51,7 @@
 
 <br/>
 
-> 💬 *" Building the future of mobile, one widget at a time."*
+> 💬 *"Building the future of mobile, one widget at a time."*
 
 </td>
 <td valign="top" width="45%" align="center">
